@@ -1,4 +1,4 @@
-def my own map(source_array)
+def my_own_map(source_array)
   return map(source_array) {|n| n * -1}
   source_array.map {|n| n * 1}
   source_array.map { |n| n * 2}  
